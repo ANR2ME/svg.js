@@ -1,0 +1,16 @@
+site_name: SVG.JS
+site_url: http://svgjs.com
+site_description: Docs for the svg.js library
+site_author: Ulrich-Matthias Schäfer, Wout Fierens
+repo_url: https://github.com/wout/svg.js
+repo_name: svg.js
+
+pages:
+- Home: 'index.md'
+- Docs: 'docs.md'
+- Plugins: 'plugins.md'
+theme: material
+markdown_extensions:
+  - codehilite(css_class=code)
+  - markdown_include.include:
+      base_path: docs

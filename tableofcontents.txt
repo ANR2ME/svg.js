@@ -1,0 +1,159 @@
+ - Home
+ - Api
+  - SVG.Element
+   - SVG.Parent
+    - SVG.Group
+   - SVG.Element
+   
+ - Plugins
+ - Playground ;)
+ - Contributing
+ - Building
+ - Compatibility
+ - Acknowledgements & Thank
+ - ...
+ 
+ 
+ - Home
+ - Docs
+  - Elements
+   - Parent Elements
+   - Shapes
+   - Other
+  - Methods
+   - Parent Methods
+   - Element Methods
+ - Plugins
+ ...
+ 
+ 
+ 
+ 
+ ### Attributes and Styles
+
+attr
+style
+show
+hide
+opacity
+visible
+fill
+stroke
+
+### Classes
+
+addClass
+removeClass
+hasClass
+toggleClass
+classes
+
+### Size and position
+
+size
+height
+with
+move
+x
+y
+center
+cx
+cy
+dmove
+dx
+dy
+
+
+### Document tree manipulations
+
+addTo / putIn
+after / before
+clone
+forward / backward
+front / back
+remove
+replace
+toParent / toDoc
+
+### Traversing the dom
+
+position
+previous / next
+siblings
+
+### Transforms
+
+transform
+untransform
+matrix
+flip
+rotate
+scale
+skew
+translate
+
+### Events
+on
+off
+fire
+click
+dblclick
+mousedown
+mousemove
+mouseout
+mouseover
+mouseup
+touchcancel
+touchend
+touchleave
+touchmove
+touchstart
+
+### Boxes and Matrices
+
+bbox
+rbox
+tbox
+ctm
+screenCTM
+matrixify
+point
+
+### Animating
+
+animate
+delay
+finish
+pause
+play
+stop
+
+### References
+
+doc
+native
+parent
+parents
+reference
+
+### Clipping / Masking
+clipWith
+maskWith
+unclip
+unmask
+
+### Import / Export
+svg
+setData
+writeDataToDom
+
+### Utility
+data
+forget
+id
+inside
+is
+linkTo
+matches
+memory
+remember
