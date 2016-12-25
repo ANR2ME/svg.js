@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - events/custom
-  - events
-  - events/listeners
-  - events/basic
-  - elements/marker
+  - classes/arrays/array
+  - classes/arrays/patharray
+  - classes/arrays/pointarray
+  - classes/arrays
+  - classes
