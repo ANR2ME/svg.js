@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - manipulating/size
-  - manipulating/position
-  - manipulating/classes
-  - manipulating/sugar-methods
-  - manipulating/attributes
+  - elements/path
+  - geometry
+  - geometry/tbox
+  - geometry/rbox
+  - geometry/bbox

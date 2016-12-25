@@ -45,3 +45,23 @@ References the `SVG.PathArray` instance. This method is rather intended for inte
 ```javascript
 path.array()
 ```
+
+## length()
+
+`returns` __`number`__
+
+Get the total length of a path element:
+
+```javascript
+var length = path.length()
+```
+
+## pointAt()
+
+`returns` __`object`__
+
+Get point on a path at given length:
+
+```javascript
+var point = path.pointAt(105) //-> returns { x : 96.88497924804688, y : 58.062747955322266 }
+```
