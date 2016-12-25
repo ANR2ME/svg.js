@@ -69,6 +69,9 @@ mask.remove()
 ```
 
 ## masker
+
+`returns` __`SVG.Mask`__
+
 For your convenience, the masking element is also referenced in the masked element. This can be useful in case you want to change the mask:
 
 ```javascript

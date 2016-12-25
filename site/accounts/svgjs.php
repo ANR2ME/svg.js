@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - manipulating/masking
-  - animating
-  - animating/references
-  - animating/timing
-  - animating/callbacks
+  - elements/pattern
+  - elements/gradient
+  - manipulating/arranging
+  - manipulating/clipping
+  - home
