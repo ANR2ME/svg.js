@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - elements/pattern
-  - elements/gradient
-  - manipulating/arranging
-  - manipulating/clipping
-  - home
+  - events/custom
+  - events
+  - events/listeners
+  - events/basic
+  - elements/marker
