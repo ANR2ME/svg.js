@@ -11,7 +11,7 @@
  */
 
 // Setup the base url for your site here
-$url = 'https://natesteiner.com/kdoc';
+$url = 'https://svgdotjs.github.io';
 
 // Don't touch below here
 define('DS', DIRECTORY_SEPARATOR);
