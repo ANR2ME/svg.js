@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - elements/path
-  - geometry
-  - geometry/tbox
-  - geometry/rbox
-  - geometry/bbox
+  - manipulating/masking
+  - animating
+  - animating/references
+  - animating/timing
+  - animating/callbacks
