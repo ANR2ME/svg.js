@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
+  - classes/matrix
   - classes/arrays/array
   - classes/arrays/patharray
   - classes/arrays/pointarray
   - classes/arrays
-  - classes
