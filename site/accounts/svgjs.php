@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - classes/matrix
-  - classes/arrays/array
-  - classes/arrays/patharray
-  - classes/arrays/pointarray
-  - classes/arrays
+  - plugins
+  - plugins/svg-resize-js
+  - plugins/svg-select-js
+  - plugins/svg-draw-js
+  - plugins/svg-topoly-js
