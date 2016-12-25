@@ -9,8 +9,8 @@ role: admin
 firstname: SVG
 lastname: JS
 history:
-  - plugins
-  - plugins/svg-resize-js
-  - plugins/svg-select-js
-  - plugins/svg-draw-js
-  - plugins/svg-topoly-js
+  - acknowledgements-thanks
+  - compatibility
+  - contributing/building
+  - contributing/coding-style
+  - contributing

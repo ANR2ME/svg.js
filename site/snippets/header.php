@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width">
     <?php echo css('assets/css/main.css') ?>
   </head>
-  <body class="<?= implode( '-', array_filter( [ 'docs-svgjs', kirby()->request()->path()->first() ] ) ) ?>">
+  <body class="docs-svgjs">
   <div class="container">
   <header role="banner">
     <div class="wrap">
